@@ -9,3 +9,5 @@
 4. 运行代码
 ## 2. matlab_to_ansys
 用matlab调用ansys的代码。注意路径不能有空格。
+
+附赠一个测试文件包。
