@@ -1,4 +1,4 @@
-% matlab调用ANSYS进行分析
+% matlab调用运行ANSYS的代码
 
 ansys_path=strcat('"D:\ANSYS\v211\ansys\bin\winx64\ANSYS211.exe"');% ansys 版本中的可执行文件,path中有空格要加：""
 jobname='tiaosuo';% jobname，不重要，不需要后缀
